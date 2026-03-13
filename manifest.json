@@ -1,0 +1,19 @@
+{
+  "name": "HugoBets",
+  "short_name": "HugoBets",
+  "theme_color": "",
+  "background_color": "#14191C",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1773410281-hugobets-favicon-32px-9cbc18a088.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

@@ -1,0 +1,214 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#14191C",
+            "lang-select-color": "#222829",
+            "bg-light": "#14191C",
+            "welcome-bonus-bg": "#14191C",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#41515a",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#0FF3FF",
+            "text-head": "#14191C",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#0FF3FF",
+            "yellow": "#4a5e68",
+            "yellow-button": "#0FF3FF",
+            "button-text": "#ffffff",
+            "main-button-text": "#14191C",
+            "border-color": "#efefdc",
+            "casino-cards": "#14191C",
+            "bonus-border-head": "#14191C",
+            "bonus-border": "#ffffff",
+            "providers-back": "#14191C",
+            "faq-label": "#14191C",
+            "bg-footer": "#14191C",
+            "copyright": "#e7e7d5",
+            "starColor": "#0FF3FF",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4439"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4441",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "HugoBets Logo"
+        },
+        "nav": {
+            "signUp": "Registrieren",
+            "playNow": "Jetzt spielen"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4442",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "HugoBets"
+        }
+    },
+    "pages": [
+        {
+            "id": "de-de-de-DE",
+            "path": "\/",
+            "name": "Немецкий",
+            "languageCode": "de",
+            "regionCode": "DE",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "HugoBets",
+                    "title": "HugoBets — Top Online Casino Deutschland | 1000€ Bonus",
+                    "description": "Spielen Sie bei HugoBets Deutschland! Erleben Sie 5000+ Slots, Live Casino & Sportwetten mit bis zu 1000€ Bonus + 150 Freispielen. Jetzt registrieren!\n",
+                    "canonical": "Das führende Online Casino für Spieler in Deutschland",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4443",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "@pafcasino",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4444"
+                },
+                "hero": {
+                    "title": "Das führende Online Casino für Spieler in Deutschland",
+                    "textDesktop": "Exklusives Willkommensangebot von",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Spiel starten",
+                    "claimBonus": "Bonus sichern",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4445",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4446",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Bonus sichern",
+                    "title": "Top-Casino",
+                    "allCasino": "Alle Casino",
+                    "welcomeBonusText": "Willkommensbonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonusdetails",
+                    "getBonusButtonText": "Bonus erhalten",
+                    "maximumAmountText": "Maximalbetrag",
+                    "wagerText": "Umsatz",
+                    "bonusCodeText": "Bonuscode",
+                    "casino": "Kasino",
+                    "bonuses": "Boni",
+                    "rate": "Rate",
+                    "freeSpins": "Frei Spins",
+                    "moreInfo": "Mehr Info",
+                    "get": "Get",
+                    "refresh": "Aktualisieren"
+                },
+                "advantages": {
+                    "title": "Vorteile",
+                    "advantagesBeforeText": "Suchen Sie ein vertrauenswürdiges Online Casino in Deutschland? Wir bieten eine sichere Plattform mit Curaçao-Lizenz, eCOGRA-geprüften Spielen und 24\/7 deutschem Support. Entdecken Sie unsere Premium-Vorteile:\n",
+                    "items": [
+                        "Offizielle Curaçao eGaming Lizenz für 100% sicheres Spielen",
+                        "Über 5000 Spiele von NetEnt, Pragmatic Play und Evolution",
+                        "Willkommenspaket bis zu 1000€ plus 150 umsatzfreie Freispiele",
+                        "Sofortige Auszahlungen für Kryptowährungen und deutsche Konten",
+                        "SSL-256-Bit-Verschlüsselung zum Schutz aller Transaktionen"
+                    ],
+                    "advantagesAfterText": "Schließen Sie sich tausenden zufriedenen deutschen Spielern an, die unsere schnellen Auszahlungen und den engagierten Support schätzen. Erleben Sie noch heute Premium-Glücksspiel!\n",
+                    "knowMore": "Mehr erfahren",
+                    "appTitle": "HugoBets App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4447",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "HugoBets App",
+                    "mobileGooglePlayImageTitle": "HugoBets App",
+                    "mobileIosImageTitle": "HugoBets App"
+                },
+                "games": {
+                    "playNowText": "Jetzt spielen",
+                    "title": "Beliebte Spiele",
+                    "allGames": "Alle Spiele"
+                },
+                "about": {
+                    "history": {
+                        "title": "Über HugoBets Deutschland",
+                        "description1": "Als etablierte Glücksspielplattform in Deutschland bieten wir unseren Spielern erstklassige Casino-Unterhaltung. Mit über 5000 lizenzierten Spielen und Sportwetten setzen wir neue Maßstäbe für anspruchsvolle Spieler im gesamten Bundesgebiet.\n",
+                        "items": [
+                            "Erweiterung des Portfolios auf über 5000 zertifizierte Spiele",
+                            "Integration von Krypto-Zahlungen für blitzschnelle Auszahlungen",
+                            "Start unserer umfassenden Sportwetten-Plattform mit Live-Quoten"
+                        ],
+                        "description2": "Wir operieren unter einer strengen Curaçao-Lizenz und garantieren Fairness durch eCOGRA. Jede Transaktion wird durch modernste SSL-Verschlüsselung geschützt, während iTech Labs unsere Zufallsgeneratoren regelmäßig auf absolute Fairness prüft.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4448",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "Wir erweitern kontinuierlich unser Angebot an exklusiven Spielen für deutsche Nutzer. Mit unseren Werkzeugen für verantwortungsvolles Spielen bleibt Ihr Erlebnis sicher. Werden Sie noch heute Teil unserer wachsenden deutschen Community!\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Umfassendes Spiel- und Sportwetten-Portfolio",
+                        "description": "<h2>Das ultimative Casino-Erlebnis für Spieler in Deutschland<\/h2>\n<p>Willkommen bei HugoBets, Ihrer erstklassigen Glücksspielplattform, die speziell für die anspruchsvollen Bedürfnisse deutscher Spieler entwickelt wurde. Wir sind stolz darauf, Ihnen ein unvergleichliches Entertainment-Erlebnis zu bieten, das weit über herkömmliche Casino-Seiten hinausgeht. Egal, ob Sie aus dem pulsierenden Berlin, dem lebhaften München oder gemütlich von zu Hause aus spielen – unsere hochmoderne Internet-Spielbank ist jederzeit für Sie erreichbar. Wir präsentieren Ihnen ein gigantisches Portfolio von über 5000 lizenzierten Spielen, die von den weltweit renommiertesten Software-Entwicklern bereitgestellt werden. Unsere Plattform vereint atemberaubende Grafiken, innovative Spielmechaniken und garantierte Fairness, zertifiziert durch unabhängige Prüfinstitute wie eCOGRA und iTech Labs. Bei uns erleben Sie nicht nur Vielfalt, sondern auch höchste Qualitätsstandards, die jeden Dreh an den Walzen und jede ausgeteilte Karte zu einem sicheren und aufregenden Moment machen.<\/p>\n\n<h3>Hochmoderne Spielautomaten und Video-Slots<\/h3>\n<p>Unser Herzstück bildet die gigantische Auswahl an Spielautomaten, die für jeden Geschmack und jedes Budget die perfekte Unterhaltung bieten. Wir verstehen, dass deutsche Spieler großen Wert auf Vielfalt und technische Perfektion legen. Daher haben wir eine Bibliothek zusammengestellt, die von nostalgischen Früchte-Slots bis hin zu den neuesten Video-Slots mit Hollywood-reifen Animationen reicht. Jedes Spiel in unserem Portfolio wird von einem zertifizierten Random Number Generator (RNG) gesteuert, der völlig zufällige und unmanipulierbare Ergebnisse garantiert. Wir erweitern unsere Sammlung wöchentlich um neue, aufregende Titel, sodass Sie bei uns immer die aktuellsten Trends der iGaming-Industrie entdecken können.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Klassische Slots:<\/strong> Für Liebhaber der traditionellen Spielhallen-Atmosphäre bieten wir eine breite Palette an 3-Walzen-Slots mit klassischen Symbolen wie Früchten, Glocken und Siebenern. Diese Spiele überzeugen durch ihr puristisches Design und direkte, unkomplizierte Auszahlungsstrukturen.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Megaways™-Titel:<\/strong> Erleben Sie die revolutionäre Mechanik von Big Time Gaming, bei der sich die Anzahl der Symbole auf den Walzen bei jedem Spin ändert. Dies ermöglicht bis zu 117.649 Gewinnwege und sorgt für dynamische, unvorhersehbare Action mit kaskadierenden Gewinnen und steigenden Multiplikatoren.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bonus Buy Feature:<\/strong> Möchten Sie nicht auf das Auslösen der Freispiele warten? Mit unseren Bonus-Buy-Slots können Sie sich direkten Zugang zu den lukrativsten Bonusrunden erkaufen. Diese Option ist bei deutschen High-Rollern besonders beliebt, da sie sofortige Hochspannung garantiert.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Progressive Jackpots:<\/strong> Träumen Sie vom lebensverändernden Gewinn? Unsere Netzwerk-Jackpots sammeln Einsätze von Spielern weltweit und können atemberaubende Millionenbeträge erreichen. Titel wie Mega Moolah oder Divine Fortune stehen bei uns für Sie bereit.<\/li>\n<\/ul>\n\n<h3>Suchen Sie die Spielautomaten mit den höchsten Auszahlungsquoten?<\/h3>\n<p>Die besten Auszahlungsquoten (RTP) finden Sie bei uns in Spielen wie Blood Suckers (98%), Mega Joker (99%) oder Jackpot 6000 (98.8%), die Ihnen langfristig herausragende Gewinnchancen bieten.<\/p>\n<p>Wir legen großen Wert auf Transparenz und stellen sicher, dass die theoretische Rückzahlungsquote (Return to Player) bei all unseren Spielen klar kommuniziert wird. Der RTP-Wert gibt an, welcher Prozentsatz der Einsätze über einen langen Zeitraum an die Spieler zurückfließt. Unsere Plattform zeichnet sich durch einen branchenführenden durchschnittlichen RTP von über 96% aus. Darüber hinaus können Sie Spiele basierend auf ihrer Volatilität auswählen. Slots mit niedriger Volatilität bieten häufigere, aber kleinere Gewinne – ideal für längere Spielsitzungen. Spiele mit hoher Volatilität zahlen seltener aus, bergen jedoch das Potenzial für massive Einzelgewinne, was besonders risikofreudige Spieler aus Deutschland anspricht.<\/p>\n\n<h3>Tischspiele und Casino-Klassiker in Perfektion<\/h3>\n<p>Neben unserer beeindruckenden Slot-Auswahl bieten wir eine exquisite Kollektion an RNG-gesteuerten Tischspielen. Diese digitalen Versionen der großen Casino-Klassiker bestechen durch realistische Physik-Engines, gestochen scharfe Grafiken und intuitive Benutzeroberflächen. Sie können Ihre Strategien beim Blackjack verfeinern, verschiedene Setzmuster beim Roulette testen oder die Eleganz von Baccarat genießen. Da Sie gegen den Computer spielen, können Sie das Tempo selbst bestimmen und in aller Ruhe Entscheidungen treffen. Unsere Tischspiele decken das gesamte Spektrum ab – von Versionen für Gelegenheitsspieler mit geringen Einsätzen bis hin zu VIP-Tischen für erfahrene High-Roller, die nach höheren Limits suchen.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #00f0ff;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Spiel<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Min<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Max<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #14171a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">0.10€<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">5.000€<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1d21;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">1€<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">10.000€<\/td>\n    <\/tr>\n    <tr style=\"background-color: #14171a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">1€<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">5.000€<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1d21;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Poker<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">0.50€<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">1.000€<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<h3>Authentisches Live Casino Erlebnis mit echten Dealern<\/h3>\n<p>Für Spieler, die die echte Casino-Atmosphäre suchen, ohne ihr Wohnzimmer verlassen zu müssen, ist unser Live Casino die ultimative Wahl. Angetrieben von den Marktführern Evolution Gaming und Pragmatic Play Live, streamen wir das Geschehen in makelloser HD-Qualität direkt auf Ihre Bildschirme. Sie interagieren mit professionell ausgebildeten Croupiers und können sich über die integrierte Chat-Funktion mit anderen Spielern austauschen. Unsere Live-Studios sind mit modernster Technologie ausgestattet, darunter optische Zeichenerkennung (OCR), die jede physische Karte und jeden Roulettekessel-Dreh sofort in digitale Daten übersetzt, was für absolute Transparenz und fehlerfreie Spielabläufe sorgt.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Roulette Varianten:<\/strong> Entdecken Sie nicht nur das klassische europäische und amerikanische Roulette, sondern auch innovative Formate wie Lightning Roulette. Hierbei schlagen in jeder Runde Blitze ein und vergeben zufällige Multiplikatoren von bis zu 500x auf einzelne Zahlen, was die Spannung ins Unermessliche steigert.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Dynamisches Live Blackjack:<\/strong> Nehmen Sie an unseren exklusiven Tischen Platz. Mit Features wie Infinite Blackjack garantieren wir, dass immer ein Sitzplatz für Sie frei ist. Zudem bieten unsere Tische lukrative Nebenwetten wie Perfect Pairs und 21+3, die zusätzliche Gewinnwege eröffnen.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Exotisches Baccarat & Sic Bo:<\/strong> Spüren Sie den asiatischen Flair mit Speed Baccarat, No Commission Baccarat oder dem faszinierenden Baccarat Squeeze, bei dem der Dealer die Karten langsam aufdeckt, um ein Höchstmaß an Dramatik zu erzeugen.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Spektakuläre Game Shows:<\/strong> Diese Kategorie revolutioniert das Live-Gaming. Titel wie Crazy Time, Monopoly Live oder Sweet Bonanza Candyland kombinieren Elemente aus Brettspielen, Glücksrädern und TV-Shows. Interaktive Bonusrunden und charismatische Moderatoren garantieren stundenlangen Spielspaß.<\/li>\n<\/ul>\n\n<h3>Umfassende Sportwetten und E-Sports für Wettbegeisterte<\/h3>\n<p>Bei HugoBets enden Ihre Möglichkeiten nicht im Casino-Bereich. Wir präsentieren Ihnen ein voll integriertes, erstklassiges Sportwetten-Portal, das speziell auf die Vorlieben des deutschen Marktes zugeschnitten ist. Ob Sie ein Fan der deutschen Bundesliga sind, die internationalen Turniere verfolgen oder sich für Randsportarten interessieren – wir bieten Ihnen zehntausende Pre-Match- und Live-Wettmärkte mit hochkompetitiven Quoten. Unser Live-Wetten-Bereich zeichnet sich durch sofortige Quotenaktualisierungen und detaillierte In-Play-Statistiken aus, sodass Sie fundierte Entscheidungen treffen können, während das Spiel noch läuft.<\/p>\n<p>Darüber hinaus sind wir Pioniere im Bereich E-Sports. Wir decken alle großen Turniere für CS:GO, Dota 2, League of Legends und Valorant ab. Der E-Sports-Markt wächst rasant, und wir stellen sicher, dass Sie bei uns die besten Wettmöglichkeiten, Spezialwetten auf First Blood oder Map Winner sowie teilweise Live-Streams der Matches direkt auf unserer Plattform genießen können. Dies macht unser Sportwetten-Angebot zu einem der umfassendsten im gesamten europäischen Raum.<\/p>\n\n<h3>Zertifizierte Software-Provider und höchste Qualität<\/h3>\n<p>Die Qualität einer Online-Spielbank steht und fällt mit ihren Partnern. Wir kooperieren ausschließlich mit den elitärsten Software-Entwicklern der Branche. Schwergewichte wie NetEnt, Microgaming, Play'n GO, Yggdrasil und Hacksaw Gaming bilden das Rückgrat unseres Portfolios. Diese Unternehmen sind für ihre strengen internen Qualitätskontrollen und innovativen Spielkonzepte bekannt. Jeder Provider auf unserer Plattform ist durch internationale Behörden wie die Malta Gaming Authority (MGA) oder die UK Gambling Commission (UKGC) lizenziert. Dies bedeutet für Sie, dass jedes Spiel vor der Veröffentlichung rigorosen mathematischen Tests unterzogen wurde. Wir bieten Ihnen somit nicht nur Unterhaltung auf höchstem Niveau, sondern auch die absolute Gewissheit, in einer fairen und sicheren Umgebung zu spielen.<\/p>\n\n<h3>Mobile Gaming und nahtlose App-Optimierung<\/h3>\n<p>In der heutigen schnelllebigen Welt möchten Sie auch unterwegs nicht auf erstklassige Unterhaltung verzichten. Deshalb haben wir die gesamte Plattform von Grund auf für mobile Endgeräte optimiert. Unsere mobile Webseite nutzt modernste HTML5-Technologie, die es ermöglicht, dass sich das Design automatisch an die Bildschirmgröße Ihres Smartphones oder Tablets anpasst – völlig unabhängig davon, ob Sie iOS, Android oder Windows nutzen. Sie benötigen keinen Speicherplatz für einen App-Download; stattdessen greifen Sie einfach über Ihren mobilen Browser auf unser gesamtes Angebot zu. Alle Funktionen, von Einzahlungen über das Live Casino bis hin zum Kundenservice, stehen Ihnen mobil uneingeschränkt und in flüssiger Performance zur Verfügung.<\/p>\n\n<h3>Fazit zu unserem grenzenlosen Entertainment-Angebot<\/h3>\n<p>Wir bei HugoBets haben es uns zur Aufgabe gemacht, Ihnen die beste, sicherste und unterhaltsamste Glücksspielplattform in Deutschland zu bieten. Durch die Kombination von über 5000 Premium-Spielen, einem umfassenden Sportwetten-Bereich, höchsten Sicherheitsstandards und einer makellosen mobilen Umsetzung setzen wir den Goldstandard in der Branche. Wir laden Sie ein, die Vielfalt, die Fairness und die unvergleichliche Spannung unseres Portfolios selbst zu erleben. Profitieren Sie von unserer hochmodernen Infrastruktur und werden Sie noch heute Teil unserer exklusiven Community erfolgreicher Spieler!<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Softwareanbieter"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Banking, Boni & Sicherheit in Deutschland",
+                        "description": "<h2>Transparente Finanztransaktionen und exklusive Belohnungen<\/h2>\n<p>Bei HugoBets Deutschland legen wir allergrößten Wert auf das Vertrauen unserer Spieler. Eine erstklassige Glücksspielplattform zeichnet sich nicht nur durch ihr Spielangebot aus, sondern insbesondere durch die Zuverlässigkeit, Schnelligkeit und Sicherheit ihrer finanziellen Operationen. Wir haben ein hochmodernes Banking-System entwickelt, das speziell auf die Bedürfnisse deutscher Spieler zugeschnitten ist. Von traditionellen Banküberweisungen bis hin zu den innovativsten Kryptowährungen bieten wir Ihnen ein flexibles Spektrum an Zahlungsmethoden. Darüber hinaus sind wir stolz auf unsere absolut transparenten Bonusbedingungen, bei denen Fairness und Spielwert an erster Stelle stehen. Unser gesamtes Ökosystem wird durch modernste Sicherheitstechnologien und anerkannte Lizenzen geschützt, sodass Sie sich voll und ganz auf Ihr Spielerlebnis konzentrieren können, während wir im Hintergrund für Ihre Sicherheit sorgen.<\/p>\n\n<h3>Flexible und sichere Einzahlungsmethoden<\/h3>\n<p>Um Ihnen den Einstieg so komfortabel wie möglich zu gestalten, haben wir eine Vielzahl von lokaliserten und internationalen Zahlungsmethoden integriert. Alle Einzahlungen auf unserer Plattform werden in Echtzeit verarbeitet, sodass Ihr Guthaben sofort auf Ihrem Spielerkonto verfügbar ist und Sie ohne Verzögerung an die Tische oder Walzen wechseln können. Wir erheben grundsätzlich keine versteckten Gebühren auf Ihre Einzahlungen, sodass Ihr gesamtes Kapital zu 100% für Ihr Spiel zur Verfügung steht. Unsere Zahlungs-Gateways sind vollständig PCI-DSS-konform, was bedeutet, dass Ihre sensiblen Finanzdaten nach den höchsten Standards der Kreditkartenindustrie verarbeitet und geschützt werden.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Kryptowährungen:<\/strong> Als zukunftsorientiertes Krypto-Casino akzeptieren wir eine breite Palette an digitalen Währungen, darunter Bitcoin (BTC), Ethereum (ETH), Tether (USDT), Litecoin (LTC) und Dogecoin. Krypto-Transaktionen bieten Ihnen absolute Anonymität, höchste Sicherheitsstandards durch Blockchain-Technologie und blitzschnelle Verarbeitungszeiten ohne Einmischung von Drittbanken.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Moderne E-Wallets:<\/strong> Für Spieler, die Fiat-Währungen bevorzugen, bieten wir schnelle digitale Geldbörsen wie Skrill, Neteller, MiFinity und Jeton an. Diese Methoden zeichnen sich durch ihre sofortige Ausführung und hohe Benutzerfreundlichkeit aus, ideal für Spieler, die ihr Spielbudget separat von ihrem Hauptbankkonto verwalten möchten.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Kredit- und Debitkarten:<\/strong> Wir akzeptieren alle gängigen Visa und Mastercard Zahlungsmittel. Unsere Systeme nutzen 3D-Secure-Authentifizierung, um sicherzustellen, dass nur Sie als rechtmäßiger Karteninhaber Einzahlungen autorisieren können, was das Risiko von Betrug effektiv auf null reduziert.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Banküberweisungen und Instant Banking:<\/strong> Speziell für den deutschen Markt unterstützen wir sichere Methoden wie Sofortüberweisung (Klarna) und Giropay. Diese Dienste verbinden sich direkt mit Ihrem deutschen Online-Banking und ermöglichen schnelle, TÜV-zertifizierte Transaktionen ohne die Notwendigkeit, sich für neue Konten zu registrieren.<\/li>\n<\/ul>\n\n<h3>Wie lange dauern Auszahlungen auf deutsche Bankkonten?<\/h3>\n<p>Auszahlungen auf deutsche Bankkonten werden von unserem Finanzteam in der Regel innerhalb von 24 Stunden bearbeitet und erreichen Ihr Konto meist innerhalb von 1 bis 3 Werktagen, während Krypto-Auszahlungen nahezu in Echtzeit erfolgen.<\/p>\n<p>Wir wissen, dass die Geschwindigkeit der Auszahlungen eines der wichtigsten Kriterien für deutsche Casino-Spieler ist. Deshalb haben wir unsere internen Prozesse optimiert, um Auszahlungsanträge so schnell wie möglich zu prüfen und freizugeben. Um gesetzliche Vorgaben zur Geldwäscheprävention (AML) zu erfüllen, führen wir bei unseren Spielern einen standardisierten KYC-Prozess (Know Your Customer) durch. Sobald Ihre Dokumente (Personalausweis, Adressnachweis) verifiziert sind – ein Prozess, der oft in weniger als 12 Stunden abgeschlossen ist –, profitieren Sie von unserem beschleunigten Auszahlungssystem. Besonders stolz sind wir auf unsere Krypto-Auszahlungen, die sofort nach der Bestätigung durch die Blockchain auf Ihrem privaten Wallet eintreffen.<\/p>\n\n<h3>Übersicht der Transaktionslimits<\/h3>\n<p>Um unseren Spielern maximale Flexibilität zu bieten, haben wir unsere Transaktionslimits großzügig gestaltet. Egal, ob Sie ein Gelegenheitsspieler sind oder zu den High-Rollern gehören, unsere Limits passen sich Ihren individuellen Bedürfnissen an. Die folgende Tabelle gibt Ihnen einen detaillierten Überblick über die Mindest- und Höchstbeträge der verschiedenen Zahlungsmethoden.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #00f0ff;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Methode<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Min<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Max<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #14171a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Krypto<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">10€<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">100.000€<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1d21;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>E-Wallet<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">20€<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">5.000€<\/td>\n    <\/tr>\n    <tr style=\"background-color: #14171a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Kreditkarte<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">20€<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">2.000€<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1d21;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Bank<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">50€<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">10.000€<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Das exklusive Willkommenspaket und umsatzfreie Boni<\/h3>\n<p>Ein herausragendes Merkmal unserer Plattform ist unsere Philosophie der umsatzfreien Boni (Wager-Free). Wir brechen mit den komplizierten Bedingungen traditioneller Online-Casinos und bieten Belohnungen, die wirklich Ihnen gehören. Neue Spieler aus Deutschland begrüßen wir mit einem spektakulären Willkommenspaket von bis zu 1000€ Bonusguthaben plus 150 Freispielen, verteilt auf Ihre ersten drei Einzahlungen. Das Besondere daran: Die Gewinne aus Ihren Freispielen unterliegen keinen strengen Umsatzbedingungen und können sofort ausgezahlt werden. Dieses Maß an Fairness und Transparenz macht unser Bonusprogramm zu einem der attraktivsten im gesamten iGaming-Markt.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Erste Einzahlung:<\/strong> Wir verdoppeln Ihr erstes Kapital mit einem 100% Match-Bonus von bis zu 300€ und schenken Ihnen zusätzlich 50 Freispiele für den beliebten Slot Money Train.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Zweite Einzahlung:<\/strong> Ihr Engagement belohnen wir weiterhin mit einem 100% Bonus von bis zu 350€ sowie weiteren 50 Freispielen für den actiongeladenen Titel Money Train 2.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Dritte Einzahlung:<\/strong> Um das Paket abzurunden, gewähren wir Ihnen erneut 100% bis zu 350€ plus 50 Freispiele für Mega Masks, wodurch Sie Ihr volles Gewinnpotenzial ausschöpfen können.<\/li>\n<\/ul>\n\n<h3>Unser VIP-Programm und exklusive Treuebelohnungen<\/h3>\n<p>Loyalität wird bei uns großgeschrieben. Unser exklusives VIP-Programm ist darauf ausgelegt, regelmäßige Spieler fortlaufend zu belohnen. Mit jedem Echtgeldeinsatz sammeln Sie wertvolle Treuepunkte, die Sie in unserem Bonus-Shop gegen Bargeld, umsatzfreie Freispiele oder Sachpreise eintauschen können. Je höher Sie in unseren VIP-Stufen aufsteigen, desto exklusiver werden Ihre Privilegien. Top-Spieler genießen Vorteile wie einen persönlichen Account-Manager, der 24\/7 für Sie erreichbar ist, priorisierte Auszahlungen mit deutlich erhöhten Limits, individuelle Cashback-Angebote, die Ihre Verluste minimieren, sowie Einladungen zu speziellen Turnieren und Events. Wir sorgen dafür, dass Sie sich jederzeit wie ein geschätzter Gast fühlen.<\/p>\n\n<h3>Höchste Sicherheitsstandards, eCOGRA und Lizenzierung<\/h3>\n<p>Ihre Sicherheit hat bei uns oberste Priorität. HugoBets wird von einer robusten juristischen Infrastruktur getragen und operiert unter einer offiziellen Lizenz von Curaçao eGaming (Master License Holder). Diese Regulierung garantiert, dass wir strenge Richtlinien hinsichtlich Spielerschutz, fairem Spiel und finanzieller Stabilität einhalten. Unsere gesamte Web-Infrastruktur wird durch eine militärtaugliche SSL-256-Bit-Verschlüsselung geschützt, die gewährleistet, dass jeglicher Datenaustausch zwischen Ihrem Gerät und unseren Servern abhörsicher ist. Zudem lassen wir unsere Systeme regelmäßig von unabhängigen Agenturen wie eCOGRA und iTech Labs auditieren, um die Integrität unserer Zufallsgeneratoren (RNG) nachweislich zu bestätigen.<\/p>\n\n<h3>Verantwortungsvolles Spielen (Responsible Gaming)<\/h3>\n<p>Wir betrachten Glücksspiel als eine Form der Unterhaltung und möchten sicherstellen, dass Sie stets die Kontrolle behalten. Aus diesem Grund bieten wir umfassende Werkzeuge für verantwortungsvolles Spielen an. In Ihren Kontoeinstellungen können Sie problemlos tägliche, wöchentliche oder monatliche Einzahlungs-, Verlust- und Sitzungslimits festlegen. Sollten Sie eine Pause benötigen, steht Ihnen unsere Self-Exclusion-Funktion (Selbstausschluss) zur Verfügung, mit der Sie Ihr Konto temporär oder permanent sperren können. Wir arbeiten zudem eng mit internationalen Hilfsorganisationen wie BeGambleAware und GamCare zusammen, um Spielern bei Bedarf professionelle Unterstützung zu vermitteln. Ihre psychologische und finanzielle Gesundheit steht für uns im Mittelpunkt.<\/p>\n\n<h3>Professioneller deutscher Kundendienst rund um die Uhr<\/h3>\n<p>Ein herausragendes Casino definiert sich über seinen Support. Bei Fragen oder Anliegen steht Ihnen unser hochqualifiziertes, deutschsprachiges Support-Team an 365 Tagen im Jahr rund um die Uhr zur Verfügung. Über unseren integrierten Live-Chat erhalten Sie in der Regel innerhalb von 2 Minuten eine kompetente Antwort von einem echten Mitarbeiter – keine störenden Chatbots. Für komplexere Anfragen oder das Einreichen von KYC-Dokumenten können Sie uns jederzeit per E-Mail kontaktieren. Wir schulen unser Personal kontinuierlich zu Themen wie technischen Abläufen, Bonusbedingungen und verantwortungsvollem Spielen, damit Ihnen stets schnell, freundlich und lösungsorientiert geholfen wird.<\/p>\n\n<h3>Zusammenfassung unserer Serviceleistungen<\/h3>\n<p>Zusammenfassend bietet HugoBets eine sichere, transparente und äußerst lohnende Umgebung für alle Casino- und Sportwetten-Enthusiasten in Deutschland. Unsere Kombination aus blitzschnellen Krypto-Zahlungen, umsatzfreien Bonusangeboten, kompromissloser Sicherheit und einem erstklassigen Kundenservice macht uns zur ersten Wahl für moderne Spieler. Verlassen Sie sich auf unsere Expertise, registrieren Sie sich noch heute in wenigen einfachen Schritten und profitieren Sie von unserem großzügigen Willkommenspaket. Entdecken Sie die nächste Generation des Online-Glücksspiels mit uns!<\/p>\n"
+                    }
+                },
+                "faq": {
+                    "title": "FAQ",
+                    "items": [
+                        {
+                            "title": "Wie registriere ich mich bei HugoBets in Deutschland?",
+                            "answer": "Die Registrierung ist in weniger als 2 Minuten abgeschlossen. Klicken Sie auf den Registrieren-Button, geben Sie Ihre gültige E-Mail-Adresse und ein sicheres Passwort ein, wählen Sie Euro (€) als Währung und bestätigen Sie Ihre Daten. Danach können Sie sofort Ihre erste Einzahlung tätigen und den umsatzfreien Willkommensbonus beanspruchen.\n"
+                        },
+                        {
+                            "title": "Welche Einzahlungsmethoden stehen deutschen Spielern zur Verfügung?",
+                            "answer": "Wir bieten eine große Auswahl an sicheren Zahlungsmethoden. Sie können bequem per Kryptowährung (Bitcoin, Ethereum), Kreditkarten (Visa, Mastercard), E-Wallets (MiFinity, Jeton) oder über deutsche Bankmethoden wie Giropay und Sofortüberweisung einzahlen. Alle Einzahlungen werden gebührenfrei und in Echtzeit auf Ihrem Konto gutgeschrieben.\n"
+                        },
+                        {
+                            "title": "Wie aktiviere ich meinen umsatzfreien Willkommensbonus?",
+                            "answer": "Tätigen Sie einfach Ihre erste Einzahlung von mindestens 20€ über eine unserer Zahlungsmethoden. Der 100% Bonus bis zu 300€ sowie die 50 Freispiele für Money Train werden Ihrem Konto sofort und automatisch gutgeschrieben. Das Besondere: Die Gewinne aus Ihren Freispielen sind komplett umsatzfrei und gehören direkt Ihnen.\n"
+                        },
+                        {
+                            "title": "Sind meine persönlichen Daten und Transaktionen sicher?",
+                            "answer": "Absolut. Wir verwenden eine militärtaugliche SSL-256-Bit-Verschlüsselung, um alle Datenübertragungen zu schützen. Als lizenziertes Curaçao-Casino unterliegen wir strengen Datenschutzrichtlinien. Ihre Gelder werden auf sicheren, getrennten Bankkonten aufbewahrt, und unsere Spiele werden regelmäßig von eCOGRA auf absolute Fairness geprüft.\n"
+                        },
+                        {
+                            "title": "Kann ich die Casino-Spiele auch auf dem Smartphone spielen?",
+                            "answer": "Ja, unsere Plattform ist vollständig für alle mobilen Endgeräte optimiert. Sie müssen keine zusätzliche App herunterladen. Öffnen Sie einfach HugoBets im Browser Ihres iOS- oder Android-Geräts. Sie haben vollen Zugriff auf alle 5000+ Spiele, das Live Casino, Sportwetten sowie alle Ein- und Auszahlungsfunktionen in brillanter Qualität.\n"
+                        },
+                        {
+                            "title": "Wie lange dauert die Verifizierung meines Kontos (KYC)?",
+                            "answer": "Die Verifizierung Ihres Kontos ist in der Regel innerhalb von 12 bis 24 Stunden abgeschlossen. Laden Sie einfach eine Kopie Ihres Lichtbildausweises und einen aktuellen Adressnachweis (z.B. eine Stromrechnung) in Ihrem Profil hoch. Unser Support-Team prüft diese umgehend, um Ihnen danach uneingeschränkte und schnelle Auszahlungen zu ermöglichen.\n"
+                        },
+                        {
+                            "title": "Wie lange dauern Auszahlungen auf mein deutsches Bankkonto?",
+                            "answer": "Auszahlungen per klassischer Banküberweisung auf Ihr deutsches Konto nehmen normalerweise 1 bis 3 Werktage in Anspruch. Wenn Sie besonders schnelle Transaktionen bevorzugen, empfehlen wir die Nutzung von Kryptowährungen oder E-Wallets, bei denen Ihre Gewinne oft schon innerhalb weniger Minuten nach der Freigabe auf Ihrem Wallet eintreffen.\n"
+                        },
+                        {
+                            "title": "Gibt es ein VIP-Programm für treue Spieler aus Deutschland?",
+                            "answer": "Ja, wir bieten ein umfassendes VIP-Programm, das Ihre Treue belohnt. Mit jedem Einsatz sammeln Sie Punkte, die Sie gegen umsatzfreie Boni, Freispiele oder Bargeld eintauschen können. Höhere VIP-Stufen profitieren zudem von einem persönlichen Account-Manager, exklusiven Cashback-Angeboten und deutlich erhöhten Auszahlungslimits.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
