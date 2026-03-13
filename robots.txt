@@ -1,5 +1,5 @@
 User-agent: * 
 Allow: / 
 Disallow: /casino/
-Host: https://Das führende Online Casino für Spieler in Deutschland/
-Sitemap: https://Das führende Online Casino für Spieler in Deutschland/sitemap.xml
+Host: https://hugobets-online-de.com/
+Sitemap: https://hugobets-online-de.com/sitemap.xml
